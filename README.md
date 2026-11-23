@@ -2,7 +2,7 @@
 
 Mailon is a mail app for the Mac. It puts all your accounts in one quick inbox, helps you write with Kalon running on your own Mac, and keeps your mail encrypted on your device.
 
-[Download Mailon 1.0](https://github.com/KalonEdge/Mailon/releases/latest/download/Mailon-1.0.dmg) for macOS 14 or later, on Apple silicon and Intel.
+[Download Mailon 1.0](https://github.com/KalonEdge/Mailon/releases/latest/download/Mailon.dmg) for macOS 14 or later, on Apple silicon and Intel.
 
 ## Features
 
